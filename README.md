@@ -4,4 +4,4 @@
   
 # SQL
 ## Labs folder contains labs questions, most of them have sql file with my solutions
-## Notes folder contains my personal notes, helps me remember hope it helps you
+## Notes [NOTION](https://familiar-beard-e6b.notion.site/SQL-3a5404a4291745319090981a52e822a5?pvs=4), helps me remember hope it helps you
